@@ -1,0 +1,64 @@
+.form-container {
+    background-image: url('./imagenes/Fondo-de-pantalla-Soy-Uleam1-1024x577.png');
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+    flex-direction: column;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+  }
+  
+  .form-container label {
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+    flex-direction: column;
+    text-align: center;
+    flex-direction: column;
+    max-width: 400px;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .form-container input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .form-container button {
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+    flex-direction: column;
+    text-align: center;
+    flex-direction: column;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    max-width: 400px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .front-container
+  {
+    background-image: url('./imagenes/Fondo-de-pantalla-Soy-Uleam1-1024x577.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    justify-content: center;
+    padding: 20px;
+    color: white;
+
+  }
+  

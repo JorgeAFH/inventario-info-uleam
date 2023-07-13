@@ -1,0 +1,57 @@
+.register-container {
+    background-image: url('./Uleam_Entrada_Principal.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: white;
+    text-align: center;
+  }
+  
+  .register-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .register-container form {
+    margin-bottom: 20px;
+  }
+  
+  .register-container form label {
+    display: block;
+    margin-bottom: 10px;
+    color: white;
+  }
+  
+  .register-container form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .register-container form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .register-container p {
+    font-size: 14px;
+    color: white;
+  }
+  
+  .register-container p button {
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  

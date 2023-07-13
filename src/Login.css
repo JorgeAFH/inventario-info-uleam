@@ -1,0 +1,55 @@
+.login-container {
+    background-image: url('./Uleam_Entrada_Principal.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: white;
+    text-align: center;
+  }
+  
+  .login-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .login-container form {
+    margin-bottom: 20px;
+  }
+  
+  .login-container form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .login-container form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .login-container form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .login-container p {
+    font-size: 14px;
+  }
+  
+  .login-container p button {
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
